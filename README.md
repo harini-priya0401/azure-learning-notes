@@ -15,4 +15,5 @@ Think of it as my **cloud diary** ✨.
 
 ---
 
-Hope this will be useful
+💡 *If you’re also learning Azure, feel free to use these notes or suggest improvements.*  
+Let’s learn and grow together 🌍 
