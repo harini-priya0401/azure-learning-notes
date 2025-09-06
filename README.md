@@ -9,8 +9,7 @@ Think of it as my **cloud diary** ✨.
 ---
 
 ## 🌟 Why this repo?
-- To track my **progress** while learning Azure.  
-- To create a **knowledge base** I can revisit anytime.  
+- To track my **progress** while learning Azure.   
 - To **share** my learnings with others who are on the same path.  
 
 ---
