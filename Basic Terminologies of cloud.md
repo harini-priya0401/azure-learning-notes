@@ -1,6 +1,6 @@
 ☁️ Cloud
 
-Cloud computing means using someone else’s data center to store, run, and manage your applications and services over the internet, instead of relying only on your own physical servers.
+Cloud computing means using data center of cloud providers to store, run, and manage your applications and services over the internet, instead of relying only on your own physical servers.
 
 🔹 Types of Cloud
 
