@@ -1,0 +1,9 @@
+Recently, I created an Azure Virtual Machine and deployed Jenkins on it.
+Here’s what I did:
+•	Provisioned a Linux VM in Azure
+•	Connected via SSH
+•	Installed & configured Jenkins
+•	Allowed inbound access to Jenkins UI on port 8080 
+This Demo helped me get hands-on with Azure VMs, Jenkins, and Linux basics.
+
+  
