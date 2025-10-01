@@ -8,11 +8,4 @@ Here’s what I did:
 
 This demo helped me get hands-on with **Azure VMs, Jenkins, and Linux basics**.
 
-### Screenshots
-
-| Step | Screenshot |
-|------|------------|
-| VM Deployment | ![VM Deployment](https://raw.githubusercontent.com/harini-priya0401/azure-learning-notes/main/VM%20deployment.png) |
-| Allowed Port 8080 | ![Allow Port 8080](AllowPort8080.png) | AllowPort8080.png
-| Running Jenkins App | ![Running Jenkins App](https://raw.githubusercontent.com/harini-priya0401/azure-learning-notes/main/Running%20Jenkins%20app.png) |
 
