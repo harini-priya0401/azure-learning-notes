@@ -16,3 +16,5 @@ Think of it as my **cloud diary** ✨.
 
 💡 *If you’re also learning Azure, feel free to use these notes or suggest improvements.*  
 Let’s learn and grow together 🌍 
+
+Thanks to Abhishek Veeramalla for his Beginner friendly playlist - https://youtube.com/playlist?list=PLdpzxOOAlwvIcxgCUyBHVOcWs0Krjx9xR&si=8U3X2Lpr_qRM8Zdd
