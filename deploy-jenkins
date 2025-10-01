@@ -1,11 +1,18 @@
-Recently, I created an Azure Virtual Machine and deployed Jenkins on it.
+Recently, I created an Azure Virtual Machine and deployed Jenkins on it.  
 Here’s what I did:
-•	Provisioned a Linux VM in Azure
-•	Connected via SSH
-•	Installed & configured Jenkins
-•	Allowed inbound access to Jenkins UI on port 8080 
-This Demo helped me get hands-on with Azure VMs, Jenkins, and Linux basics.
 
-  https://github.com/harini-priya0401/azure-learning-notes/blob/main/VM%20deployment.png
-  https://github.com/harini-priya0401/azure-learning-notes/blob/main/AllowPort8080.png
-  https://github.com/harini-priya0401/azure-learning-notes/blob/main/Running%20Jenkins%20app.png
+- Provisioned a Linux VM in Azure  
+- Connected via SSH  
+- Installed & configured Jenkins  
+- Allowed inbound access to Jenkins UI on port 8080  
+
+This demo helped me get hands-on with **Azure VMs, Jenkins, and Linux basics**.
+
+### Screenshots
+
+| Step | Screenshot |
+|------|------------|
+| VM Deployment | ![VM Deployment](https://raw.githubusercontent.com/harini-priya0401/azure-learning-notes/main/VM%20deployment.png) |
+| Allowed Port 8080 | ![Allow Port 8080](https://raw.githubusercontent.com/harini-priya0401/azure-learning-notes/main/AllowPort8080.png) |
+| Running Jenkins App | ![Running Jenkins App](https://raw.githubusercontent.com/harini-priya0401/azure-learning-notes/main/Running%20Jenkins%20app.png) |
+
